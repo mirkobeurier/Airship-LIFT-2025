@@ -23,8 +23,8 @@ This is airship was built on the base of the prevos edition airship, with clear 
 - 3D printing
 
 ## My role
-Leading, and managung project requirements among the different group areas of the project
-PCB design using Easy EDA 
-Propulsion system with 6 different electric brushless motors and 180º range of movement, placement and software
-Sliding rail system for balancing and crane
+- Leading, and managung project requirements among the different group areas of the project
+- PCB design using Easy EDA 
+- Propulsion system with 6 different electric brushless motors and 180º range of movement, placement and software
+- Sliding rail system for balancing and crane
 
