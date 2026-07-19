@@ -6,9 +6,9 @@ Co-organized by FLYING WHALES and Planète Sciences, this annual competition inv
 This is airship was built on the base of the prevos edition airship, with clear objectives to have a better chance at completing different challenges and come on top
 
 ## Objectives
-### Redesign of the propulsion system to have better handling characteristics and better suited for the propulsion needs of the airship
-### Redesign of the electrical distribution system with a custom made PCB
-### Redesign of the grappler to improve reliability 
+- Redesign of the propulsion system to have better handling characteristics and better suited for the propulsion needs of the airship
+- Redesign of the electrical distribution system with a custom made PCB
+- Redesign of the grappler to improve reliability 
 
 ## Features
 - 6 Meter length
